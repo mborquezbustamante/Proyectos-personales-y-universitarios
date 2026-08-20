@@ -16,18 +16,17 @@ Mis áreas de interés son la **ciberseguridad**, el **desarrollo de software** 
 ### 🗄️ Bases de Datos
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Sistema de Gestión de Pacientes](./gestion-pacientes-bd) | Aplicación clínica con CRUD completo y modelo relacional normalizado hasta 3FN | Python, SQLite, SQL |
+| [Sistema de Gestión de Pacientes](./Sistema-de-Gestion-de-Pacientes-con-DB-V2.6) | Aplicación clínica con CRUD completo y modelo relacional normalizado hasta 3FN | Python, SQLite, SQL |
 
 ### 🧮 Algoritmos & Estructuras de Datos
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Proyecto Trominos](./trominos-recursivo-ml) | Cobertura de trominos con enfoque recursivo puro y variante con Machine Learning | Python, recursión, ML básico |
 | [Generador de Fracciones Únicas](./generador-fracciones-eda) | Generación de un millón de fracciones irreductibles sin repetición usando MCM | Python, algoritmos |
 
 ### 🤖 Teoría de la Computación
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Autómatas AFD y AFND](./automatas-afd-afnd) | Simulador de autómatas finitos deterministas y no deterministas con conversión AFN → AFD | Python |
+| [Autómatas AFD y AFND](./er-afd-afnd) | Simulador de autómatas finitos deterministas y no deterministas con conversión AFN → AFD | Python |
 
 ---
 
