@@ -56,19 +56,14 @@ sq(2000000, "mis_fracciones_personalizadas.txt")
 
 **Ejemplo de salida en terminal:**
 ```
-Iniciando generación de 2,000,000 de fracciones...
+Iniciando generación de 2,000,000 fracciones...
 Guardando en: fracciones.txt
 ======================================================================
 
-[TIMER] Tiempo: 00:00:10 | Fracciones: 45,231 | Velocidad: 4,523.10 frac/seg
-
-[TIMER] Tiempo: 00:00:20 | Fracciones: 89,542 | Velocidad: 4,477.10 frac/seg
-
-[TIMER] Tiempo: 00:00:30 | Fracciones: 134,890 | Velocidad: 4,496.33 frac/seg
-
+======================================================================
 [COMPLETADO] Se generaron 2,000,000 fracciones
-[TIEMPO TOTAL] 00:07:23
-[VELOCIDAD PROMEDIO] 4,510.20 fracciones/segundo
+[TIEMPO TOTAL] 00:00:06
+[VELOCIDAD PROMEDIO] 314453.53 fracciones/segundo
 [ARCHIVO] Guardado en: fracciones.txt
 ======================================================================
 ```
