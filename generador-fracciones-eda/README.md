@@ -1,6 +1,6 @@
 # Generador de Fracciones Únicas (EDA)
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 
 ## 📋 Descripción
 
